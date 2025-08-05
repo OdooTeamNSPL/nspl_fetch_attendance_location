@@ -1,0 +1,1 @@
+# nspl_fetch_attendance_location
