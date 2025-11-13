@@ -1,6 +1,6 @@
 {
     'name': 'Fetch Attendance Location',
-    'version': '18.0',
+    'version': '19.0.1',
     'summary': 'Automatically fetch Check-In and Check-Out Locations in HR Attendance',
     'description': """
     This module enhances the HR Attendance system by automatically capturing 
